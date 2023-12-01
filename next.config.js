@@ -2,7 +2,7 @@
 const nextConfig = {
     generateEtags: false,
     env: {
-        API_ADDRESS: "http://localhost:3000/api"
+        API_ADDRESS: "https://ticket-lilac.vercel.app/api"
     }
 }
 
